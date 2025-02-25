@@ -6,4 +6,6 @@ I'm interested in some weird stuff like ML, competitive programming, making my b
  - 🐣 Backend intern in Yandex, 2021-2022
  - 🚗 CV Engineer in ADAS team in ATOM, since 2022
 
-<img src="https://raw.githubusercontent.com/nekiynekit/nekiynekit/refs/heads/main/pusheen-latop.gif" align="center">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/nekiynekit/nekiynekit/refs/heads/main/pusheen-latop.gif">
+</p>
